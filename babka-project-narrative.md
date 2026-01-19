@@ -70,3 +70,15 @@ This project reinforced several core principles of technical and instructional w
 
 Although the subject matter was culinary rather than technical, the underlying skills — structuring information, anticipating user needs, testing for usability, and adapting to constraints — directly translate to professional technical writing.
 
+---
+
+## Screenshots
+
+The following PDFs show the layout and design of the babka recipe website:
+
+- [Desktop view](./screenshots/Cinnamon Babka.pdf)
+- [Mobile view](./screenshots/mobile-view.pdf)
+- [Presentation Slideshow](./screenshots/_Lightning Talk Presentation Starter 5 minutes.pptx)
+
+
+
