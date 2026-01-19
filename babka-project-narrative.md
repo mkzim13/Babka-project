@@ -76,9 +76,10 @@ Although the subject matter was culinary rather than technical, the underlying s
 
 The following PDFs show the layout and design of the babka recipe website:
 
-- [Desktop view](./screenshots/Cinnamon Babka.pdf)
+- [Desktop view](./screenshots/Cinnamon-Babka.pdf)
 - [Mobile view](./screenshots/mobile-view.pdf)
-- [Presentation Slideshow](./screenshots/_Lightning Talk Presentation Starter 5 minutes.pptx)
+- [Presentation Slideshow](./screenshots/Babka-presentation.pptx)
+
 
 
 
