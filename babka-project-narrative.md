@@ -79,6 +79,8 @@ The following PDFs show the layout and design of the babka recipe website:
 - [Desktop view](./screenshots/Cinnamon-Babka.pdf)
 - [Mobile view](./screenshots/mobile-view.pdf)
 - [Presentation Slideshow](./screenshots/Babka-presentation.pptx)
+- [Active site](https://cinnamon-babka.my.canva.site/)
+
 
 
 
